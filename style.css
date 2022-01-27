@@ -1,0 +1,9 @@
+body {
+  font-family: "Raleway", sans-serif;
+  background-color: #f6f6f6;
+  padding: 0.5em calc((100vw - 1200px) / 2);
+}
+
+h1 {
+  text-align: center;
+}
